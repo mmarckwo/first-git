@@ -1,4 +1,4 @@
-# first-git
+# First Git
 
 ### simple example
 
